@@ -1,0 +1,785 @@
+﻿post_title,tax:pwb-brand,tax:product_type,tax:product_visibility,tax:product_cat,tax:product_tag,tax:product_shipping_class,attribute:pa_color,attribute_data:pa_color
+"XYZ Maker CZ-300",XYZPrinting,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Filamento",,,,
+"Creality Ender 3",Creality,simple,exclude-from-catalog|outofstock,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3",,,
+"Creality Ender 3 Pro",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 Pro",,,
+"Artillery Sidewinder X1",Artillery,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Filamento",,,,
+"Artillery Genius",Artillery,simple,exclude-from-catalog|exclude-from-search|outofstock|rated-5,"Impresoras 3D|Impresoras 3D > Filamento",,,,
+"Anycubic i3 Mega S",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Anycubic i3 Mega S",,,
+"XYZ Printing Da Vinci 3 en 1",XYZPrinting,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Ensamblada",,,,
+"XYZ Printing Da Vinci Color",XYZPrinting,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Ensamblada",,,,
+"Raise 3D Pro 2","Raise 3D",simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Ensamblada",,,,
+"Raise 3D Pro 2 Plus","Raise 3D",simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Ensamblada","impresora 3D|Raise 3D|Raise 3D Pro 2 Plus",,,
+"Raise 3D E2","Raise 3D",simple,,"Características|Características > Cartesiana|Características > Cerrada|Características > Alta Temperatura|Características > Doble Extrusor|Impresoras 3D|Impresoras 3D > Ensamblada","impresora 3D|Raise 3D E2",,,
+"XYZ Printing Nobel Superfine",XYZPrinting,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Bloque calentador tipo Volcano",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"PolyDissolve S1 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Transparente,0|1|0
+"PolyLite ASA Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Blanco,0|1|0
+"PolyCast Natural 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Natural,0|1|0
+"PolyMide CoPA Natural (1.75mm, 750g)",Polymaker,simple,exclude-from-catalog|exclude-from-search,"Filamentos|Filamentos > Nylon",,,,
+"PolyLite PETG Transparente 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Transparente,0|1|0
+"PolyLite PETG Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG","PolyLite PETG|PolyLite PETG Blanco",,Blanco,0|1|0
+"PolyLite PETG Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG","PolyLite PETG|PolyLite PETG Negro",,Negro,0|1|0
+"PolyLite ABS Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > ABS","Filamento ABS|PolyLite ABS|PolyLite ABS Negro",,Negro,0|1|0
+"PolyLite PLA Verde 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Verde,0|1|0
+"PolyLite PLA Morado 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Morado,0|1|0
+"PolyLite PLA Turquesa 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Turquesa,0|1|0
+"PolyLite PLA Gris 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","Filamento PLA|PolyLite PLA|PolyLite PLA Gris",,Gris,0|1|0
+"PolyLite PLA Amarillo 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Amarillo,0|1|0
+"PolyLite PLA Rojo 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Rojo,0|1|0
+"PolyLite PLA Azul 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Azul,0|1|0
+"PolyLite PLA Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","Filamento PLA|PolyLite PLA|PolyLite PLA Blanco",,Blanco,0|1|0
+"PolyLite PLA Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","Filamentos PLA|PolyLite PLA|PolyLite PLA Negro",,Negro,0|1|0
+"PolyLite PLA Natural 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Natural,0|1|0
+"PolySmooth Rojo Coral 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Rojo,0|1|0
+"PolySmooth Transparente 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Transparente,0|1|0
+"PolySmooth Azul Eléctrico 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Azul,0|1|0
+"PolySmooth Blanco Nieve 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Blanco,0|1|0
+"PolyWood Madera 1.75mm 600g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Beige,0|1|0
+"PolyFlex Negro 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > TPU","Filamento TPU|PolyFlex Negro",,Negro,0|1|0
+"PolyFlex Blanco 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > TPU","Filamento TPU|PolyFlex Blanco",,Blanco,0|1|0
+"PolyMax PC Blanco 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Policarbonato",,,Blanco,0|1|0
+"PolyMax PETG Blanco 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Blanco,0|1|0
+"PolyMax PLA Negro 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Reforzado",,,Negro,0|1|0
+"PolyMax PLA Blanco 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Reforzado",,,Blanco,0|1|0
+"Cabezal de impresion Anycubic",Anycubic,simple,exclude-from-catalog,"Repuestos|Repuestos > Hotends",,,,
+"Plataforma caliente Anycubic",Anycubic,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Tanque de resina Anycubic",Anycubic,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Film FEP Anycubic 140x200mm",Anycubic,simple,,"Repuestos|Repuestos > Film FEP","Film FEP Anycubic|Film FEP Anycubic 140x200mm",,,
+"Placa Principal Ender-3 V1.1.4",Creality,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Fuente de Alimentación",Creality,simple,,"Repuestos|Repuestos > Fuentes de Poder",,,,
+"Ventilador axial 4010",Creality,simple,,"Repuestos|Repuestos > Ventiladores",,,,
+"Bloque calentador MK8",Creality,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Bloque disipador",Creality,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Boquilla MK8 0.3mm",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 de 0.3 mm",,,
+"Boquilla MK8 0.4mm",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 de 0.4 mm",,,
+"Boquilla MK8 0.6mm",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK8 0.8mm",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 de 0.8 mm",,,
+"Columna de aislamiento excentrica Creality",Creality,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Conector neumatico PC4-M6 Creality",Creality,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Motor paso a paso 42-40 Creality",Creality,simple,,"Repuestos|Repuestos > Motores",,,,
+"Correa Sincrónica del eje X",Creality,simple,,"Repuestos|Repuestos > Correas",,,,
+"Correa Sincrónica del eje Y",Creality,simple,,"Repuestos|Repuestos > Correas",,,,
+"Fuente de Alimentación Meanwell",Creality,simple,,"Repuestos|Repuestos > Fuentes de Poder",,,,
+"Limite de carrera Creality",Creality,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Tubo calefactor Creality",Creality,simple,,"Repuestos|Repuestos > Resistencias",,,,
+"Termistor de extrusor Creality",Creality,simple,,"Repuestos|Repuestos > Termistores",,,,
+"Base Magnética 235x235mm Creality",Creality,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible|Plataforma Magnetica Flexible 235x235mm",,,
+"Tubo de teflon Capricorn Serie TL 0.5m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Creality Ender 3 V2",Creality,simple,exclude-from-catalog|outofstock,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality|Creality Ender 3 V2|Ender 3 V2|Impresoras 3D",,,
+"Creality CR-6 SE",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Creality CR-6 SE",,,
+"Creality Ender 5",Creality,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Filamento",,,,
+"Creality Ender 5 Pro",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 5 Pro",,,
+"Anycubic Chiron",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Anycubic Chiron",,,
+"Anycubic Photon",Anycubic,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Anycubic Photon Zero",Anycubic,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Anycubic Wash and Cure 2.0",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Postprocesado","Anycubic Wash and Cure 2.0",,,
+"Lapicero 3D MagiX Pro","Krear 3D",simple,,"Upgrades|Upgrades > Lapiceros 3D","Lapicero 3D MagiX Pro",,,
+"Lapicero 3D MagiX Kids","Krear 3D",simple,,"Upgrades|Upgrades > Lapiceros 3D","Lapicero 3D MagiX Kids",,,
+"PolyBox Edition II",Polymaker,simple,,"Upgrades|Upgrades > Accesorios",,,,
+"Polysher Black",Polymaker,simple,,"Upgrades|Upgrades > Accesorios",,,,
+"HP 3D Scan Pro S3",HP,simple,,"Escáneres 3D|Escáneres 3D > Luz Estructurada",,,,
+"HP Camara Dual Adicional",HP,simple,,"Escáneres 3D|Escáneres 3D > Accesorios",,,,
+"HP Base Giratoria Automatica",HP,simple,,"Escáneres 3D|Escáneres 3D > Accesorios",,,,
+"Matter and Form V2",,simple,exclude-from-catalog|exclude-from-search|outofstock,"Escáneres 3D|Escáneres 3D > Triangulación Láser",,,,
+"XYZ 3D Scanner 1.0A",XYZPrinting,simple,exclude-from-catalog|outofstock,"Escáneres 3D|Escáneres 3D > Triangulación Láser",,,,
+"Epilog Laser Zing 16 30W","Epilog Laser",simple,,"Cortadoras Láser|Cortadoras Láser > Profesional",,,,
+"Tormach xsTECH CNC Router",Tormach,simple,,"Routers CNC|Routers CNC > Profesional",,,,
+"Laguna Tools IQ Series",Laguna,simple,,"Routers CNC|Routers CNC > Profesional",,,,
+"progeCAD Professional 2020",,simple,exclude-from-catalog|exclude-from-search,"Upgrades|Upgrades > Accesorios",,,,
+"Dobot Magician",Dobot,simple,,"Routers CNC|Routers CNC > Robots",,,,
+"Dobot Magician Lite",Dobot,simple,,"Routers CNC|Routers CNC > Robots",,,,
+"Boquilla Volcano 0.4mm",Artillery,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Polea Dentada 2GT-20 8mm",Artillery,simple,,"Repuestos|Repuestos > Correas",,,,
+"Kit Resortes para Plataforma (x4) Creality",Creality,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Placa principal Sidewinder Gen-L V1.0",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Placa principal Genius Gen-L V1.0",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Cama Termica de Silicona para Sidewinder X1",Artillery,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Driver FS31W01 con disipador de calor",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Motor paso a paso de 42-24 Artillery",Artillery,simple,,"Repuestos|Repuestos > Motores",,,,
+"Motor paso a paso de 42-40 Artillery",Artillery,simple,,"Repuestos|Repuestos > Motores",,,,
+"Motor paso a paso de 42-48 Artillery",Artillery,simple,,"Repuestos|Repuestos > Motores",,,,
+"Cama Termica de Silicona para Genius",Artillery,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Plataforma de vidrio para Genius",Artillery,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Tubo de teflon PTFE","Krear 3D",simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Plataforma de vidrio para Sidewinder X1",Artillery,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Rueda en V",Artillery,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Creality Ender 6",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 6",,,
+"Creality Ender 5 Plus",Creality,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 5 Plus",,,
+"Anycubic Photon S",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Anycubic Photon Mono",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon Mono",,,
+"Anycubic Photon Mono X",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon Mono X",,,
+"Anycubic Mega Pro",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento",,,,
+"Kit tarjetas ejes para Sidewinder X1",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit tarjetas ejes para Genius",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit cables flat para Genius",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit cables flat para Sidewinder X1",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit sensores final de carrera para Sidewinder X1",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit pantalla tactil para Sidewinder X1",Artillery,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Kit pantalla tactil para Genius",Artillery,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Kit Extrusor Titan Artillery",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"PolyLite PLA Anaranjado 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Anaranjado,0|1|0
+"Resina Estandar Transparente Anycubic 500g",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Gris Anycubic 500g",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Negra Anycubic 500g",Anycubic,simple,,"Resinas|Resinas > Estándar","Resina Estandar|Resina Estandar Negra|Resina para impresoras 3D",,,
+"Resina Estandar Verde Traslucida Anycubic 500g",Anycubic,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Turquesa Anycubic 500g",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Blanca Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar","Resina Estandar|Resina Estandar Blanca|Resina para impresoras 3D",,,
+"Resina Estandar Piel (Beige) Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar","Resina Estandar|Resina Estandar Piel|Resina para impresoras 3D",,,
+"Resina Casteable Anycubic 500g",Anycubic,simple,exclude-from-catalog|exclude-from-search|outofstock,"Resinas|Resinas > Casteable",,,,
+"Resina Medica Anycubic 500g",Anycubic,simple,exclude-from-catalog|exclude-from-search|outofstock,"Resinas|Resinas > Biocompatible",,,,
+"Boquilla Volcano 0.4mm de Acero Endurecido",Artillery,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK8 0.4mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Aguja Limpiador de Boquillas 0.4mm X5","Krear 3D",simple,,"Upgrades|Upgrades > Accesorios",,,,
+"Extrusor ensamblado de Sidewinder X1",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Extrusor ensamblado de Genius",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Sensor de Filamento Artillery",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Sensor de Autonivelado BLTouch",Creality,simple,exclude-from-catalog,"Upgrades|Upgrades > Sensores",,,,
+"Artillery Hornet",Artillery,simple,exclude-from-catalog|outofstock,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Artillery|Artillery Hornet|Hornet|impresora 3D",,,
+"Creality Ender 3 Max",Creality,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 Max",,,
+"Boquilla Volcano 0.2mm",Artillery,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla Volcano 0.6mm",Artillery,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla Volcano 0.8mm",Artillery,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Ventilador de capa 4010",Creality,simple,,"Repuestos|Repuestos > Ventiladores",,,,
+"Kit Extrusor de Metal",Creality,simple,,"Upgrades|Upgrades > Extrusores",,,,
+"Placa silenciosa Ender 3 V2",Creality,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit HotEnd Artillery",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Kit Termistor + Resistencia Artillery",Artillery,simple,,"Repuestos|Repuestos > Resistencias|Repuestos > Termistores",,,,
+"Kit Boquillas Volcano",Artillery,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Kit Boquillas MK8",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Creality CR-10 Max",Creality,simple,,"Características|Características > Cartesiana|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Filamento","Creality CR-10 Max",,,
+"Creality LD-002H",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Creality LD-006",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Creality|Creality LD-006|impresora 3D|LD-006",,,
+"Creality CR-5 Pro H",Creality,simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","CR-5 Pro H|Creality|Creality CR-5 Pro H|impresora 3D",,,
+"Creality CR-200B",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Creality CR-200B",,,
+"Creality Sermoon D1",Creality,simple,,"Características|Características > Core XY|Características > Cerrada|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Creality Sermoon D1",,,
+"Anycubic Photon Mono SE",Anycubic,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Creality UW-01",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Creality CP-01",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Creality CP-01",,,
+"PolyTerra PLA Negro Carbón 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","PolyTerra|PolyTerra PLA|PolyTerra PLA Negro Carbón",,Negro,0|1|0
+"PolyTerra PLA Blanco Algodón 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","PolyTerra PLA Blanco Algodón",,Blanco,0|1|0
+"PolyTerra PLA Anaranjado Amanecer 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Anaranjado,0|1|0
+"PolyTerra PLA Azul Zafiro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Azul,0|1|0
+"PolyTerra PLA Morado Lavanda 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Morado,0|1|0
+"PolyTerra PLA Turquesa Ártico 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Turquesa,0|1|0
+"PolyTerra PLA Rojo Lava 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Rojo,0|1|0
+"PolyTerra PLA Gris Fósil 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","PolyTerra PLA Gris Fosil",,Gris,0|1|0
+"PolyMax PETG Negro 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Negro,0|1|0
+"PolyMax PC Negro 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Policarbonato",,,Negro,0|1|0
+"PolySmooth Negro 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Negro,0|1|0
+"PolyMide CoPA Negro 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Nylon",,,Negro,0|1|0
+"PolyMide PA6-CF Negro 1.75mm 500g",Polymaker,simple,,"Filamentos|Filamentos > Reforzado",,,Negro,0|1|0
+"PolyLite ASA Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Negro,0|1|0
+"Resina Estandar Gris Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar","Resina Estandar|Resina Estandar Gris|Resina para impresoras 3D",,,
+"Resina Estandar Transparente Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"XYZ PLA Fibra de Carbono (1.75mm, 600g)",Polymaker|XYZPrinting,simple,exclude-from-catalog|outofstock,"Filamentos|Filamentos > Reforzado",,,,
+"Esun ABS+ Rojo (1.75mm, 1Kg)",Esun,simple,exclude-from-catalog,"Filamentos|Filamentos > ABS",,,,
+"Esun ABS+ Azul (1.75mm, 1Kg)",Esun,simple,exclude-from-catalog,"Filamentos|Filamentos > ABS",,,,
+"Esun ABS+ Gris (1.75mm, 1Kg)",Esun,simple,exclude-from-catalog,"Filamentos|Filamentos > ABS",,,,
+"Esun ABS+ Verde (1.75mm, 1Kg)",Esun,simple,exclude-from-catalog,"Filamentos|Filamentos > ABS",,,,
+"Esun ABS+ Negro (1.75mm, 1Kg)",Esun,simple,exclude-from-catalog,"Filamentos|Filamentos > ABS",,,,
+"XYZ PLA Resistente (1.75mm, 600g)",XYZPrinting,simple,exclude-from-catalog|outofstock,"Filamentos|Filamentos > Reforzado",,,,
+"Kit Ruedas Giratorias de Nivelacion (x4) Creality",Creality,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Base Magnética 310x310mm Creality",Creality,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible|Plataforma Magnetica Flexible 310x310mm",,,
+"Film FEP Creality 140x200mm",Creality,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Film FEP Anycubic 175x260mm",Anycubic,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Resina Estandar Amarilla Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Roja Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Verde Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Anaranjada Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Azul Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Piel Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Blanca Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Gris Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Flexible Creality 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Bajo Olor Azul Traslucida 500g",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Bajo Olor Verde Traslucida 500g",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Bajo Olor Rojo Traslucida 500g",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Estandar Bajo Olor Transparente 500g",Creality,simple,exclude-from-catalog|outofstock,"Resinas|Resinas > Estándar",,,,
+"Resina Casteable Creality 500g",Creality,simple,,"Aplicaciones|Aplicaciones > Joyería|Resinas|Resinas > Casteable","Resina Casteable|Resina de impresoras 3D",,,
+"Resina Estandar Negra Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Creality CR-30",Creality,simple,,"Características|Características > Core XY|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Filamento",,,,
+"Creality Halot Sky",Creality,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina",,,,
+"Creality Halot One",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Creality Halot One",,,
+"Creality CR-10 Smart",Creality,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality CR-10 Smart",,,
+"Creality UW-02",Creality,simple,,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Anycubic Wash and Cure Plus",Anycubic,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado","Anycubic Wash and Cure Plus",,,
+"Creality CR-Scan 01",Creality,simple,,"Escáneres 3D|Escáneres 3D > Triangulación Láser","Creality|Creality CR-Scan 01",,,
+"Film FEP Anycubic Photon Mono 173X115.4mm",Anycubic,simple,,"Repuestos|Repuestos > Film FEP","Film FEP Anycubic Photon Mono|Film FEP Anycubic Photon Mono 173x115.4mm",,,
+"Tubo de teflón Serie XS 0.5m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Tubo de teflon Capricorn Serie XS 1m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Tubo de teflon Capricorn Serie XS 2m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Tubo de teflon Capricorn Serie TL 1m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Tubo de teflon Capricorn Serie TL 2m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Cortador de tubos Capricorn",Capricorn,simple,,"Upgrades|Upgrades > Accesorios",,,,
+"Kit Capricorn Serie XS 1m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Kit Capricorn Serie TL 1m",Capricorn,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Kit universal de autonivelado BLTouch 8Bit Creality",Creality,simple,,"Upgrades|Upgrades > Sensores",,,,
+"Kit universal de autonivelado BLTouch 32Bit Creality",Creality,simple,,"Upgrades|Upgrades > Sensores",,,,
+"Cable de transferencia BLTouch L750mm Creality",Creality,simple,,"Upgrades|Upgrades > Sensores",,,,
+"Correa Universal GT2-W6 1M",Creality,simple,,"Repuestos|Repuestos > Correas",,,,
+"Protector de Silicona MK8",Creality,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Reductor de vibracion para plataforma (x4) Creality",Creality,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Kit de extension eje Z +100mm",Creality,simple,,"Upgrades|Upgrades > Accesorios",,,,
+"Conector neumatico PC4-M10 Creality",Creality,simple,,"Upgrades|Upgrades > Tubos PTFE",,,,
+"Kit Extrusor Directo para Ender-3",Creality,simple,,"Upgrades|Upgrades > Extrusores",,,,
+"Ventilador de capa 4020",Creality,simple,,"Repuestos|Repuestos > Ventiladores",,,,
+"Base Magnética PEI 320x310mm Creality",Creality,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible PEI|Plataforma Magnética Flexible PEI 320x310mm",,,
+"Base Magnética Resina 138x78mm Creality",Creality,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnatica Flexible Resina|Plataforma Magnatica Flexible Resina 138x78mm",,,
+"Base Magnética PEI 235x235mm Creality",Creality,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible PEI|Plataforma Magnetica Flexible PEI 235x235mm",,,
+"Film FEP Creality 266x190mm",Creality,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Flux Beamo 30W",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > CO2","Flux Beamo 30W",,,
+"Flux Beambox 40W",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > CO2","cortadora láser|Flux|Flux Beambox 40W|grabadora láser|grabadora y cortadora láser",,,
+"Flux Beambox Pro 50W",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > CO2","Beambox Pro 50W|cortadora láser|Flux|Flux Beambox Pro 50W|Grabadora LA|grabadora y cortadora láser",,,
+"Extractor y Filtro Beam Air",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > Extractor Y Filtro",,,,
+"Accesorio Giratorio Flux Beamo",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",,,,
+"Accesorio Giratorio Flux Beambox",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",,,,
+"Creality CR-6 Max",Creality,simple,,"Características|Características > Cartesiana|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Filamento","Creality CR-6 Max",,,
+"Boquilla MK8 0.2mm",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 de 0.2 mm",,,
+"Boquilla MK8 0.5mm",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 de 0.5 mm",,,
+"Boquilla MK8 0.25mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK8 0.6mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 0.6mm de Acero Endurecido",,,
+"Boquilla MK8 0.4mm de Aleación",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK8 0.25mm de Aleación",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK8 1.0mm",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 de 1.0 mm",,,
+"Boquilla MK8 0.6mm de Aleación",Creality,simple,,"Repuestos|Repuestos > Boquillas","Boquilla MK8|Boquilla MK8 0.6mm de Aleacion",,,
+"Motor paso a paso 42-34 Creality",Creality,simple,,"Repuestos|Repuestos > Motores",,,,
+"Placa principal Photon Mono SE",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Tanque de resina Anycubic Photon Mono SE",Anycubic,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Plataforma de Impresion Anycubic Photon Mono SE",Anycubic,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Pantalla LCD Anycubic Photon Mono SE",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Placa principal Photon Mono X",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Plataforma de Impresion Anycubic Photon Mono X",Anycubic,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Pantalla LCD Anycubic Photon Mono X",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Tanque de resina Anycubic Photon Mono X",Anycubic,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Placa principal Photon Mono",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Plataforma de Impresion Anycubic Photon Mono",Anycubic,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Pantalla LCD Anycubic Photon Mono",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Tanque de resina Anycubic Photon Mono",Anycubic,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Pantalla LCD Anycubic Photon",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Pantalla LCD Anycubic Photon S",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Placa principal Wash and Cure 2.0",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit HotEnd V5-J Anycubic",Anycubic,simple,,"Repuestos|Repuestos > Hotends",,,,
+"PolyLite PETG Verde 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Verde,0|1|0
+"PolyLite PETG Rojo 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Rojo,0|1|0
+"PolyLite PETG Azul 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Azul,0|1|0
+"PolyLite PETG Gris 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG","PolyLite PETG Gris",,Gris,0|1|0
+"PolyLite ASA Gris 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Gris,0|1|0
+"PolyTerra PLA Verde Selva 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Verde,0|1|0
+"PolyTerra PLA Amarillo Pradera 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Amarillo,0|1|0
+"PolyTerra PLA Anaranjado Pastel 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Anaranjado,0|1|0
+"PolyTerra PLA Amarillo Pastel 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Amarillo,0|1|0
+"PolyTerra PLA Rosado Pastel 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Rosado,0|1|0
+"PolyTerra PLA Verde Pastel 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Verde,0|1|0
+"PolyLite ABS Verde 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > ABS",,,Verde,0|1|0
+"PolyLite ABS Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > ABS","PolyLite ABS|PolyLite ABS Blanco",,Blanco,0|1|0
+"PolyLite ABS Rojo 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > ABS",,,Rojo,0|1|0
+"PolyLite ABS Azul 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > ABS",,,Azul,0|1|0
+"PolyLite ABS Gris 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > ABS","PolyLite ABS Gris",,Gris,0|1|0
+"PolyLite ABS Turquesa 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > ABS",,,Turquesa,0|1|0
+"Artillery Genius Pro",Artillery,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Artillery|Artillery Genius Pro|Genius Pro|impresora 3D",,,
+"Anycubic Vyper",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Anycubic|Anycubic Vyper|impresora 3D|Vyper",,,
+"Anycubic Photon Mono 4K",Anycubic,simple,exclude-from-catalog|outofstock|rated-5,"Impresoras 3D|Impresoras 3D > Resina",,,,
+"Artillery Sidewinder X2",Artillery,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Artillery|Artillery Sidewinder X-2|impresora 3D|Sidewinder X-2",,,
+"Secador de Filamento",Creality,simple,,"Upgrades|Upgrades > Accesorios","Secador de Filamento Creality",,,
+"Resina Estandar Verde Traslucida Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Creality Ender 7",Creality,simple,exclude-from-catalog|outofstock,"Características|Características > Core XY|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 7",,,
+"Creality Halot Max",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Creality|Creality Halot Max|Halot Max|impresora 3D",,,
+"PolySmooth Gris 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > Especiales",,,Gris,0|1|0
+"PolyLite PLA Sedoso Oro Metalico 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Oro,0|1|0
+"PolyLite PLA Sedoso Bronce Metálico 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Bronce,0|1|0
+"PolyLite PLA Magenta Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Rosado,0|1|0
+"PolyLite PLA Azul Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Azul,0|1|0
+"PolyLite PLA Verde Luminoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Especiales",,,Luminoso,0|1|0
+"PolyLite PLA Verde Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Verde,0|1|0
+"PolyTerra PLA Marrón Tierra 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Marrón,0|1|0
+"PolyTerra PLA Rosado Sakura 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Rosado,0|1|0
+"PolyTerra PLA Marrón Maní 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Beige,0|1|0
+"PolyTerra PLA Hielo Pastel 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Turquesa,0|1|0
+"PolyTerra PLA Blanco Mármol 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","PolyTerra PLA Blanco Marmol",,Blanco,0|1|0
+"PolyTerra PLA Rojo Militar 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Rojo,0|1|0
+"PolyTerra PLA Azul Militar 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Azul,0|1|0
+"PolyTerra PLA Verde Oscuro Militar 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Verde,0|1|0
+"PolyTerra PLA Verde Claro Militar 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Verde,0|1|0
+"PolyTerra PLA Marrón Militar 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Marrón,0|1|0
+"PolyTerra PLA Beige Militar 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Beige,0|1|0
+"PolyTerra PLA Gris Mármol 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Turquesa,0|1|0
+"PolyLite PLA Sedoso Plata Metálico 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Plata,0|1|0
+"Kit universal de autonivelado CRTouch Creality",Creality,simple,,"Upgrades|Upgrades > Sensores",,,,
+"Creality Ender 2 Pro",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 2 Pro",,,
+"Creality Ender 3 S1",Creality,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality|Creality Ender 3 S1|Ender 3 S1|impresora 3D",,,
+"Anycubic Photon Mono X 6K",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon Mono X 6K",,,
+"Anycubic Photon Mono SQ",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon Mono SQ",,,
+"Creality Halot Lite",Creality,simple,exclude-from-catalog|outofstock,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Creality Halot Lite",,,
+"Anycubic Photon Ultra",Anycubic,simple,,"Características|Características > DLP|Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon Ultra",,,
+"Creality PLA Fibra de Carbono 1.75mm 1Kg",Creality,simple,exclude-from-catalog|outofstock,"Filamentos|Filamentos > Reforzado",,,Negro,0|1|0
+"Gatillo de Extrusor Titan",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Placa principal Ruby 32 bit",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Sensor de autonivelado Artillery",Artillery,simple,,"Upgrades|Upgrades > Sensores",,,,
+"Kit sensores final de carrera para Genius",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Barrel Genius Pro / Sidewinder X2",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Protector de Silicona Volcano Artillery",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Accesorio Autofocus Flux Beamo",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",,,,
+"Modulo laser de diodo Flux Beamo",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",,,,
+"PolyLite PLA Pro Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Reforzado|Filamentos > Especiales",,,Blanco,0|1|0
+"PolyLite PLA Pro Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Reforzado|Filamentos > Especiales",,,Negro,0|1|0
+"Resina Estandar Turquesa Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Resina Lavable al Agua Gris Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Resina Lavable al Agua Blanca Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Resina Lavable al Agua Negra Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Resina Lavable al Agua Transparente Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar",,,,
+"Creality Ender 3 S1 Pro",Creality,simple,,"Características|Características > Cartesiana|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 S1 Pro",,,
+"Creality CR-10 Smart Pro",Creality,simple,,"Características|Características > Cartesiana|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality CR-10 Smart Pro",,,
+"Creality Halot One Pro",Creality,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Creality Halot One Pro",,,
+"Creality Halot One Plus",Creality,simple,exclude-from-catalog|outofstock,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Creality Halot One Plus",,,
+"Anycubic Kobra",Anycubic,simple,exclude-from-catalog|outofstock,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Anycubic|Anycubic Kobra|impresora 3D|Kobra",,,
+"Anycubic Kobra Max",Anycubic,simple,,"Características|Características > Cartesiana|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Filamento","Anycubic Kobra Max",,,
+"Anycubic Photon M3",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon M3",,,
+"Anycubic Photon M3 Plus",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon M3 Plus",,,
+"Anycubic Photon M3 Max",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina",,,,
+"PolyLite PLA Rojo Galaxia 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Rojo,0|1|0
+"PolyLite PLA Negro Galaxia 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Negro,0|1|0
+"PolyLite PLA Fibra de Carbono 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Reforzado",,,Negro,0|1|0
+"PolyLite PLA Azul Galaxia 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Azul,0|1|0
+"Raise 3D Pro 3 Plus","Raise 3D",simple,,"Características|Características > Cartesiana|Características > Cerrada|Características > Alta Temperatura|Características > Doble Extrusor|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Ensamblada","impresora 3D|Pro 3 Plus|Raise 3D|Raise 3D Pro 3 Plus",,,
+"Raise 3D Pro 3","Raise 3D",simple,,"Características|Características > Cartesiana|Características > Cerrada|Características > Alta Temperatura|Características > Doble Extrusor|Impresoras 3D|Impresoras 3D > Ensamblada",,,,
+"Elegoo Mars 2 Pro",Elegoo,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Elegoo|Elegoo Mars 2 Pro|impresora 3D|Mars 2 Pro",,,
+"Elegoo Mars 3 Pro",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Elegoo|Elegoo Mars 3 Pro|impresora 3D|Mars 3 Pro",,,
+"Elegoo Saturn S",Elegoo,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Resina","Elegoo Saturn S",,,
+"Elegoo Mercury Plus 2.0",Elegoo,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado","Elegoo Mercury Plus 2.0",,,
+"Elegoo Mercury XS Bundle",Elegoo,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado","Elegoo Mercury X Bundle",,,
+"Elegoo Neptune 2S",Elegoo,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Elegoo|Elegoo Neptune 2S|impresora 3D|Neptune 2S",,,
+"Prusa Original i3 MK3S+ Kit","Prusa Research",simple,,"Características|Características > Cartesiana|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","impresora 3D|Prusa|Prusa Original i3 MK3S  Kit",,,
+"Flsun Super Racer (SR)",Flsun,simple,,"Características|Características > Delta|Impresoras 3D|Impresoras 3D > Filamento","Flsun|Flsun Super Race|Flsun Super Race (SR)|Super Race",,,
+"Flsun Q5",Flsun,simple,exclude-from-catalog|outofstock,"Características|Características > Delta|Impresoras 3D|Impresoras 3D > Filamento",,,,
+"Kit Boquillas MK-ST",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"XYZ Printing Da Vinci 2.0 Duo",XYZPrinting,simple,exclude-from-catalog|exclude-from-search|outofstock,"Impresoras 3D|Impresoras 3D > Ensamblada",,,,
+"XYZ Printing Da Vinci Jr. 1.0",XYZPrinting,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Ensamblada","XYZ Printing Da Vinci Jr. 1.0",,,
+"Placa principal Photon Mono 4K",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Pantalla LCD Anycubic Photon Mono 4K",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Protector de Pantalla Anycubic 6.23""",Anycubic,simple,,"Repuestos|Repuestos > Protectores de Pantalla","Anycubic|Impresoras 3D|Protector de Pantalla|Protector de Pantalla Anycubic 6.23""",,,
+"Placa principal Photon Mono X 6K",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Pantalla LCD Anycubic Photon Mono X 6K / M3 Plus",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Placa principal Photon Mono M3 Plus",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Pantalla LCD Anycubic Photon M3",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Lazervida 10W",Lazervida,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo","cortadora láser|Flux|Flux Lazervida 10W|grabadora láser|Lazervida 10W",,,
+"Flux Hexa 60W",Flux,simple,,"Cortadoras Láser|Cortadoras Láser > CO2","cortadora láser|cortadora y grabadora láser|Flux|Flux Hexa 60W|grabadora láser|Hexa 60W",,,
+"Film nFEP Phrozen 280x450mm",Phrozen,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Creality Ender 3 S1 Plus",Creality,simple,rated-5,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 S1 Plus|Ender 3 S1 Plus",,,
+"Pantalla LCD Phrozen Sonic Mini 8K",Phrozen,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Pantalla LCD Phrozen Mega 8K",Phrozen,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Elegoo Jupiter",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Elegoo Jupiter",,,
+"Elegoo Saturn 2",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Elegoo|Elegoo Saturn 2|impresora 3D|Saturn 2",,,
+"Elegoo Neptune 3",Elegoo,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3",,,
+"Creality Ender 3 V2 Neo",Creality,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 V2 Neo|Ender 3 V2 Neo",,,
+"Film nFEP Phrozen 210x290mm",Phrozen,simple,,"Repuestos|Repuestos > Film FEP","Film FEP Phrozen 210x290mm|impresora 3D|Phrozen",,,
+"Phrozen Sonic Mini 8K",Phrozen,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Phrozen|Phrozen Sonic Mini 8K|Sonic Mini 8K",,,
+"Phrozen Sonic Mighty 8K",Phrozen,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","impresora 3D|Phrozen|Phrozen Sonic Mighty 8K|Sonic Mighty 8K",,,
+"Phrozen Sonic Mega 8K",Phrozen,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","impresora 3D|Phrozen|Phrozen Sonic Mega 8K|Sonic Megan 8K",,,
+"Creality CR-Scan Lizard",Creality,simple,,"Escáneres 3D|Escáneres 3D > Triangulación Láser","Creality|Creality CR-Scan Lizard",,,
+"Resina Alta Temperatura Creality 500g",Creality,simple,,"Resinas|Resinas > Resistente","Creality|Resina Alta Temperatura|Resina marca creality|Resina para impresoras 3D",,,
+"Creality PLA Arcoíris 1.75mm 1Kg",Creality,simple,exclude-from-catalog,"Filamentos|Filamentos > PLA|Filamentos > Especiales",,,Arcoiris,0|1|0
+"Anycubic Kobra Plus",Anycubic,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Anycubic Kobra Plus",,,
+"Anycubic Photon D2",Anycubic,simple,,"Características|Características > DLP|Impresoras 3D|Impresoras 3D > Resina",,,,
+"Resina Tipo ABS Gris Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Resistente",,,,
+"Protector de Pantalla Anycubic 8.9″",Anycubic,simple,,"Repuestos|Repuestos > Protectores de Pantalla","Anycubic|Impresoras 3D|Protector de Pantalla Anycubic 8.9″",,,
+"Extrusor ensamblado de Genius Pro / X2",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Extrusor ensamblado de Hornet",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Resina Aqua 4K Gris 1Kg",Phrozen,simple,,"Aplicaciones|Aplicaciones > Joyería|Aplicaciones > Dental|Resinas|Resinas > Estándar",,,,
+"Placa principal Photon Mono M3",Anycubic,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Anycubic Photon Mono X2",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon Mono X2",,,
+"Film FEP Anycubic M3",Anycubic,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Pantalla LCD Anycubic Photon M3 Max",Anycubic,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Film FEP Anycubic M3 Max 263x390mm",Anycubic,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Tanque de resina Anycubic Photon M3 Max",Anycubic,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Protector de Pantalla Anycubic 13.6″",Anycubic,simple,,"Repuestos|Repuestos > Protectores de Pantalla","Anycubic|Impresoras 3D|Protector de Pantalla Anycubic 8.9″",,,
+"Film PFA Elegoo 176x273mm",Elegoo,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Film FEP 2.0 Elegoo 146x195mm",Elegoo,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"PolyTerra PLA+ Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA ","PolyTerra PLA Blanco Marmol",,Blanco,0|1|0
+"PolyTerra PLA+ Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA ","PolyTerra PLA Blanco Marmol",,Negro,0|1|0
+"PolyTerra PLA+ Azul 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA ","PolyTerra PLA Blanco Marmol",,Azul,0|1|0
+"PolyTerra PLA+ Verde 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA ","PolyTerra PLA Blanco Marmol",,Verde,0|1|0
+"PolyTerra PLA+ Gris 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA ","PolyTerra PLA Blanco Marmol",,Gris,0|1|0
+"PolyTerra PLA+ Rojo 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA ","PolyTerra PLA Blanco Marmol",,Rojo,0|1|0
+"PolyTerra PLA Negro Carbón 1.75mm 3Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA 3Kg","PolyTerra|PolyTerra PLA|PolyTerra PLA Negro Carbón",,Negro,0|1|0
+"PolyTerra PLA Blanco Algodón 1.75mm 3Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA 3Kg","PolyTerra PLA Blanco Algodón",,Blanco,0|1|0
+"PolyLite PLA Ligero Negro 1.75mm 800g",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Especiales",PolyLite,,Negro,0|1|0
+"Phrozen Wash and Cure Kit",Phrozen,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado","Phrozen Wash and Cure Kit",,,
+"Resina Aqua 8K Gris 1Kg",Phrozen,simple,,"Aplicaciones|Aplicaciones > Joyería|Aplicaciones > Dental|Resinas|Resinas > Estándar",,,,
+"Resina Ultra Alta Temperatura TR300 1Kg",Phrozen,simple,,"Resinas|Resinas > Resistente",,,,
+"Resina Casteable Violeta Phrozen 500g",Phrozen,simple,,"Aplicaciones|Aplicaciones > Joyería|Resinas|Resinas > Casteable",,,,
+"Resina Resistente Nylon Verde Phrozen 1Kg",Phrozen,simple,,"Resinas|Resinas > Resistente",,,,
+"Resina Rigida Rock Black Phrozen 1Kg",Phrozen,simple,,"Aplicaciones|Aplicaciones > Ingeniería|Resinas|Resinas > Resistente",,,,
+"Resina Alta Velocidad Gris Phrozen 1Kg",Phrozen,simple,,"Resinas|Resinas > Estándar",,,,
+"Tanque de resina Phrozen Sonic Mega 8K",Phrozen,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Pantalla LCD Phrozen Sonic Mighty 8K",Phrozen,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Cortador Ultrasónico Phrozen",Phrozen,simple,,"Upgrades|Upgrades > Accesorios","Lapicero 3D MagiX Kids",,,
+"Plataforma de Impresion Phrozen Sonic Mega 8K",Phrozen,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Plataforma de Impresion Phrozen Sonic Mighty 8K",Phrozen,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Tanque de resina Phrozen Sonic Mini 8K",Phrozen,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Tanque de resina Phrozen Sonic Mighty 8K",Phrozen,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Plataforma de Impresion Phrozen Sonic Mini 8K",Phrozen,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Film nFEP Phrozen 220x310mm",Phrozen,simple,,"Repuestos|Repuestos > Film FEP","Film FEP Phrozen 210x290mm|impresora 3D|Phrozen",,,
+"Elegoo Saturn 8K",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Elegoo|Elegoo Saturn 2|impresora 3D|Saturn 2",,,
+"Elegoo Neptune 3 Pro",Elegoo,simple,exclude-from-catalog|outofstock,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3",,,
+"Elegoo Neptune 3 Plus",Elegoo,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3",,,
+"Creality Ender 3 Neo",Creality,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3",,,
+"Creality Ender 5 S1",Creality,simple,,"Características|Características > Core XY|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 5 S1",,,
+"Flsun V400",Flsun,simple,,"Características|Características > Delta|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Flsun|Flsun Super Race|Flsun Super Race (SR)|Super Race",,,
+"Anycubic Photon M3 Premium",Anycubic,simple,exclude-from-catalog|outofstock,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon M3",,,
+"Anycubic Kobra Go",Anycubic,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Anycubic|Anycubic Kobra|impresora 3D|Kobra",,,
+"Anycubic Kobra Neo",Anycubic,simple,exclude-from-catalog|outofstock,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Anycubic|Anycubic Kobra|impresora 3D|Kobra",,,
+"Pantalla LCD Elegoo Saturn 2 / Saturn 8K",Elegoo,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Pantalla LCD Elegoo Mars 3 4K",Elegoo,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Tanque de resina Elegoo Saturn 2",Elegoo,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Modulo Láser CV 1.6W",Creality,simple,,"Upgrades|Upgrades > Extrusores",,,,
+"Base Magnética PEI 200x200mm FLSUN",Flsun,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible PEI|Plataforma Magnética Flexible PEI 320x310mm",,,
+"Base Magnética PEI 260x260mm FLSUN",Flsun,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible PEI|Plataforma Magnética Flexible PEI 320x310mm",,,
+"Tanque de resina Anycubic Photon M3",Anycubic,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Filtro de Resina (x5)",Anycubic,simple,,"Upgrades|Upgrades > Accesorios",,,,
+"PolyLite PLA Dual Magenta/Verde Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Rosado|Verde,0|1|0
+"PolyLite PLA Dual Oro/Magenta Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Oro|Rosado,0|1|0
+"PolyLite PLA Dual Azul/Verde Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Azul|Verde,0|1|0
+"PolyLite PLA Dual Amarillo/Azul Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Amarillo|Azul,0|1|0
+"PolyLite PLA Dual Oro/Plata Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Oro|Plata,0|1|0
+"PolyLite PLA Dual Verde/Cromo Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Plata|Verde,0|1|0
+"PolyLite PLA Dual Oro/Morado Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Morado|Oro,0|1|0
+"PolyLite PLA Dual Oro/Rojo Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Oro|Rojo,0|1|0
+"PolyLite PLA Dual Plata/Azul Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Azul|Plata,0|1|0
+"Hyper FFF Kit Alta Velocidad","Raise 3D",simple,,"Upgrades|Upgrades > Extrusores",,,,
+"Soportes Lazervida",Lazervida,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",,,,
+"Espaciadores Lazervida",Lazervida,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",,,,
+"Kit HotEnd Creality",Creality,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Protector de Pantalla Anycubic 7.6""",Anycubic,simple,,"Repuestos|Repuestos > Protectores de Pantalla","Anycubic|Impresoras 3D|Protector de Pantalla Anycubic 6.23""",,,
+"Protector de Pantalla Anycubic 9.25″",Anycubic,simple,,"Repuestos|Repuestos > Protectores de Pantalla","Anycubic|Impresoras 3D|Protector de Pantalla Anycubic 8.9″",,,
+"Kit tarjetas ejes para Genius Pro",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit tarjetas ejes para Sidewinder X2",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit cables flat para Sidewinder X2",Artillery,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Kit cables flat para Genius Pro",Artillery,simple,,"Repuestos > Placas Electrónicas",,,,
+"PolyTerra PLA Rojo Lava 1.75mm 3Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA 3Kg","PolyTerra|PolyTerra PLA|PolyTerra PLA Rojo Lava",,Rojo,0|1|0
+"PolyTerra PLA Azul Zafiro 1.75mm 3Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA 3Kg","PolyTerra|PolyTerra PLA|PolyTerra PLA Rojo Lava",,Azul,0|1|0
+"PolyTerra PLA Turquesa Ártico 1.75mm 3Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA 3Kg","PolyTerra|PolyTerra PLA|PolyTerra PLA Rojo Lava",,Turquesa,0|1|0
+"Boquilla MK-ST 0.25mm",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK-ST 0.4mm",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK-ST 0.6mm",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK-ST 0.8mm",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Resina BlueCast X-ONE 500g",BlueCast,simple,,"Aplicaciones|Aplicaciones > Joyería|Resinas|Resinas > Casteable",,,,
+"Resina BlueCast Original 500g",BlueCast,simple,,"Aplicaciones|Aplicaciones > Joyería|Resinas|Resinas > Casteable",,,,
+"Resina BlueCast X5 500g",BlueCast,simple,,"Aplicaciones|Aplicaciones > Joyería|Resinas|Resinas > Casteable",,,,
+"Resina BlueCast X10 500g",BlueCast,simple,,"Aplicaciones|Aplicaciones > Joyería|Resinas|Resinas > Casteable",,,,
+"Resina Prizma 3D Bio Guide 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Splint 500g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas|Resinas > Biocompatible",,,,
+"Resina Prizma 3D Bio Crown BL Bleach 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Prov BL Bleach 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Creality Ender 3 Max Neo",Creality,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3",,,
+"Creality CR-M4",Creality,simple,,"Características|Características > Cartesiana|Características > Alta Temperatura|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Filamento","Creality CR-10 Smart Pro",,,
+"Creality Sermoon D3",Creality,simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Creality Sermoon D1",,,
+"Creality CR-200B Pro",Creality,simple,,"Características|Características > Core XY|Características > Cerrada|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Creality CR-200B",,,
+"Kingroon KP3S Pro S1",Kingroon,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Kingroon KP3S Pro S1",,,
+"Kingroon KP3S 3.0",Kingroon,simple,exclude-from-catalog|outofstock,"Impresoras 3D|Impresoras 3D > Filamento","Kingroon KP3S 3",,,
+"Hotend Spider de Alta Temperatura",Creality,simple,,"Upgrades|Upgrades > Extrusores","Creality|Hotend|Hotend Spider de Alta Temperatura",,,
+"Sonic Pad",Creality,simple,,"Upgrades|Upgrades > Displays","Sonic Pad Creality",,,
+"Kit de Alto Flujo",Creality,simple,,"Upgrades|Upgrades > Extrusores","Creality|Kit de Alto Flujo Creality",,,
+"Hotend Spider Pro de Alto Flujo y Temperatura",Creality,simple,,"Upgrades|Upgrades > Extrusores","Hotend Spider Pro|Hotend Spider Pro de Alta Temperatura y Alto Flujo",,,
+"Extrusor Titan Ensamblado de Alto Flujo y Temperatura",Creality,simple,,"Upgrades|Upgrades > Extrusores",,,,
+"Anycubic Photon Mono 2",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Anycubic Photon Mono 2",,,
+"Purificador de Aire",Anycubic,simple,,"Upgrades|Upgrades > Accesorios","Anycubic|Anycubic AirPure|Purificador de Aire",,,
+"Speeder Pad",Flsun,simple,,"Upgrades|Upgrades > Displays","Flsun|Flsun Speeder Pad",,,
+"Prusa Original MINI+ Kit","Prusa Research",simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","impresora 3D|Kit Original Prusa MINI |Prusa",,,
+"Phrozen Sonic XL 4K 2022",Phrozen,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina|Impresoras 3D > Dental","impresora 3D|Phrozen|Phrozen Sonic XL 4K 2022",,,
+"Resina Onyx Impact Plus 1Kg",Phrozen,simple,,"Aplicaciones|Aplicaciones > Ingeniería|Resinas|Resinas > Resistente","Resina Onxy Impact Plus (1000ml)|Resina Phrozen",,,
+"Phrozen Cure Beam Lapicero de Curado UV",Phrozen,simple,,"Upgrades|Upgrades > Accesorios","Phrozen Cure Beam|Phrozen Cure Beam Lapicero de Post Curado UV",,,
+"Revopoint POP 2 3D Scanner",Revopoint,simple,,"Escáneres 3D|Escáneres 3D > Triangulación Láser","POP 2 3D Scanner|Revopoint|Revopoint POP 2 3D Scanner",,,
+"Resina Phrozen Gingiva Mask 500g",Phrozen,simple,,"Aplicaciones|Aplicaciones > Dental|Resinas","Resina Dental|Resina Phrozen|Resina Phrozen Gingiva Mask 500g",,,
+"Resina Phrozen Modelo de Estudio 1Kg",Phrozen,simple,,"Aplicaciones|Aplicaciones > Dental|Resinas","Resina Phrozen|Resina Phrozen Modelo de Estudio 1000g",,,
+"Resina Phrozen Modelo Dental Lavable 1Kg",Phrozen,simple,,"Aplicaciones|Aplicaciones > Dental|Resinas","Resina Phrozen|Resina Phrozen Modelo Dental Lavable 1000g",,,
+"Elegoo Neptune 3 Max",Elegoo,simple,exclude-from-catalog|outofstock,"Características|Características > Cartesiana|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3 Max",,,
+"Elegoo Mars 4 DLP",Elegoo,simple,,"Características|Características > DLP|Impresoras 3D|Impresoras 3D > Resina","DLP|Elegoo|impresora 3D|Mars 4 DLP",,,
+"Resina Standard Elegoo Amarilla 500g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Granate 500g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Azul 500g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Azul Translucido 500g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Rojo Translucido 500g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Amarilla 1000g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Granate 1000g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Azul 1000g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Azul Translucido 1000g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Standard Elegoo Rojo Translucido 1000g",Elegoo,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Termistor de Extrusor Elegoo",Elegoo,simple,,"Repuestos|Repuestos > Termistores","Termistor de Extrusor",,,
+"Tubo Calefactor Elegoo",Elegoo,simple,,"Repuestos|Repuestos > Resistencias","Tubo Calefactor",,,
+"Placa Principal Robin Nano",Elegoo,simple,,"Repuestos|Repuestos > Placas Electrónicas","Elegoo|Placa Principal|Robin Nano",,,
+"Base Magnética PEI 235x235mm Elegoo",Elegoo,simple,,"Upgrades|Upgrades > PEIs","Base Magnetica",,,
+"Base Magnética PEI 330x330mm Elegoo",Elegoo,simple,,"Upgrades|Upgrades > PEIs","Base Magnetica",,,
+"Base Magnética PEI 430x430mm Elegoo",Elegoo,simple,,"Upgrades|Upgrades > PEIs","Base Magnetica|PEI Neptune 3 Max",,,
+"Bambu Lab X1 Carbon Combo","Bambu Lab",simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Bambu Lab|Bambu Lab X1 Carbon Combo",,,
+"Bambu Lab X1 Carbon","Bambu Lab",simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Bambu Lab|Bambu Lab X1 Carbon",,,
+"Bambu Lab P1P","Bambu Lab",simple,,"Características|Características > Core XY|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Bambu Lab|Bambu Lab P1P",,,
+"Sistema de Material Automatico AMS","Bambu Lab",simple,,"Upgrades|Upgrades > Accesorios","AMS|Bambu Lab",,,
+"HUB Sistema de Material Automatico AMS","Bambu Lab",simple,,"Upgrades|Upgrades > Accesorios","Bambu Lab|HUB Sistema de Material Automatico AMS",,,
+"Hotend Completo Acero Endurecido","Bambu Lab",simple,,"Repuestos|Repuestos > Hotends","Bambu Lab|Hotend|Hotend Completo Acero Endurecido X1 Carbon",,,
+"Hotend Completo Acero Inoxidable","Bambu Lab",simple,,"Repuestos|Repuestos > Hotends","Bambu Lab|Hotend|Hotend Completo Acero Inoxidable X1 Carbon",,,
+"Hotend y Boquilla Acero Endurecido 0.4mm","Bambu Lab",simple,,"Repuestos|Repuestos > Hotends","Bambu Lab|Hotend|Hotend y Boquilla Acero Endurecido X1 P1P",,,
+"Termistor X1 Series","Bambu Lab",simple,,"Repuestos|Repuestos > Termistores","Termistor de Extrusor",,,
+"PEI Texturizada Dual Bambu Lab","Bambu Lab",simple,,"Upgrades|Upgrades > PEIs","Bambu Lab|Base Magnetica",,,
+"Goma Líquida","Bambu Lab",simple,,"Upgrades|Upgrades > Accesorios","Bambu Lab|Goma Liquida",,,
+"Esun PLA+ Negro 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Negro,0|1|0
+"Esun PLA+ Blanco Frio 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Blanco,0|1|0
+"Esun PLA+ Azul 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Azul,0|1|0
+"Esun PLA+ Amarillo 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Amarillo,0|1|0
+"Esun PLA+ Anaranjado 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Anaranjado,0|1|0
+"Esun PLA+ Gris 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Gris,0|1|0
+"Esun PLA+ Morado 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Morado,0|1|0
+"Esun PLA+ Verde Pino 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Verde,0|1|0
+"Esun PLA+ Rojo Fuego 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA ","Esun|PLA PLUS",,Rojo,0|1|0
+"Esun ePLA Blanco Lechoso Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Blanco,0|1|0
+"Esun ePLA Gris Oscuro Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Gris,0|1|0
+"Esun ePLA Celeste Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Turquesa,0|1|0
+"Esun ePLA Rosado Melocoton Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Rosado,0|1|0
+"Esun ePLA Amarillo Almendra Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Amarillo,0|1|0
+"Esun ePLA Verde Menta Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Verde,0|1|0
+"Esun ePLA Caqui Claro Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Beige,0|1|0
+"Esun ePLA Negro Profundo Mate 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA","Esun|PLA Matte",,Negro,0|1|0
+"Resina Estandar Blanca Lechosa Esun 1kg",Esun,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Estandar Gris Oscuro Esun 1kg",Esun,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Estandar Celeste Esun 1kg",Esun,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Estandar Amarillo Almendra Esun 1kg",Esun,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Estandar Rosado Melocoton Esun 1kg",Esun,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Estandar Verde Menta Esun 1kg",Esun,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Resina Estandar Negro Profundo Esun 1kg",Esun,simple,,"Resinas|Resinas > Estándar","Resina Standard",,,
+"Boquilla V6 NF 0.4mm",Mellow,simple,,"Repuestos|Repuestos > Boquillas",Boquilla|Mellow|V6,,,
+"Esun ePLA Arcoiris Sedoso 1.75mm 1Kg",Esun,simple,,"Filamentos|Filamentos > PLA",eSilk|Esun|Rainbow,,Arcoiris,0|1|0
+"Creality K1",Creality,simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Creality K1",,,
+"Creality K1 Max",Creality,simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Creality K1",,,
+"Creality Falcon2 22W",Creality,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo","Creality Falcon2 22W",,,
+"Creality Halot Mage 8K",Creality,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Creality Halot Mage 8K",,,
+"Creality Halot Mage Pro 8K",Creality,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Creality Halot Mage Pro 8K",,,
+"PolyFlex Azul 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > TPU","Filamento TPU|PolyFlex Azul",,Azul,0|1|0
+"PolyFlex Rojo 1.75mm 750g",Polymaker,simple,,"Filamentos|Filamentos > TPU","Filamento TPU|PolyFlex Rojo",,Rojo,0|1|0
+"Creality CR-Scan Ferret",Creality,simple,,"Escáneres 3D|Escáneres 3D > Luz Estructurada","Creality CR-Scan Ferret",,,
+"Phrozen Sonic Mini 8K S",Phrozen,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Phrozen|Phrozen Sonic Mini 8K S",,,
+"Prusa Original MK4 Kit","Prusa Research",simple,,"Características|Características > Cartesiana|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","impresora 3D|Prusa Original MK4 Kit",,,
+"Phrozen Cure Mega",Phrozen,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado",Phrozen,,,
+"Accesorio Giratorio Lazervida",Lazervida,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",Lazervida,,,
+"Barrel Hornet",Artillery,simple,,"Repuestos|Repuestos > Hotends",Artillery,,,
+"Boquilla V3H 0.2mm","Raise 3D",simple,,"Repuestos|Repuestos > Boquillas","Boquilla|Raise 3D",,,
+"Boquilla V3H 0.4mm","Raise 3D",simple,,"Repuestos|Repuestos > Boquillas","Boquilla|Raise 3D",,,
+"Boquilla V3H 0.6mm","Raise 3D",simple,,"Repuestos|Repuestos > Boquillas","Boquilla|Raise 3D",,,
+"Boquilla V3H 0.8mm","Raise 3D",simple,,"Repuestos|Repuestos > Boquillas","Boquilla|Raise 3D",,,
+"Boquilla V3H 1.0mm","Raise 3D",simple,,"Repuestos|Repuestos > Boquillas","Boquilla|Raise 3D",,,
+"Modulo Láser Universal 1.6w",Creality,simple,,"Upgrades|Upgrades > Extrusores","Creality|Modulo Laser",,,
+"Elegoo Mars 4 Max",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","DLP|Elegoo|Elegoo Mars 4 Max|impresora 3D",,,
+"Anycubic Kobra 2",Anycubic,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Anycubic|Anycubic Kobra|impresora 3D|Kobra",,,
+"Anycubic Photon Mono X 6Ks",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina",Anycubic,,,
+"Resina Alta Velocidad Gris Anycubic 1kg",Anycubic,simple,,"Resinas|Resinas > Estándar","Alta Velocidad|Anycubic",,,
+"Kingroon KP3S Pro V2",Kingroon,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Impresoras 3D|Impresoras 3D > Filamento","Kingroon KP3S Pro V2",,,
+"Kingroon KP5L",Kingroon,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Kingroon KP5L",,,
+"Film ACF Phrozen 160x235mm",Phrozen,simple,,"Repuestos|Repuestos > Film FEP",Phrozen,,,
+"Elegoo Mars 4",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","DLP|Elegoo|Elegoo Mars 4 Max|impresora 3D",,,
+"Elegoo Mars 4 Ultra",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","DLP|Elegoo|Elegoo Mars 4 Max|impresora 3D",,,
+"Elegoo Neptune 4",Elegoo,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3",,,
+"Elegoo Neptune 4 Pro",Elegoo,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3",,,
+"Elegoo Saturn 3",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Elegoo|impresora 3D",,,
+"Elegoo Saturn 3 Ultra",Elegoo,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","Elegoo|impresora 3D",,,
+"Anycubic Photon M5",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina",Anycubic,,,
+"Anycubic Photon M5s",Anycubic,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina",,,,
+"Resina Flexible Gris Anycubic 1Kg",Anycubic,simple,,"Resinas|Resinas > Estándar","Resina Estandar|Resina Estandar Blanca|Resina para impresoras 3D",,,
+"Creality CR-Laser Falcon 5W",Creality,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo","Creality Falcon2 22W",,,
+"Creality CR-Laser Falcon 10W",Creality,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo","Creality Falcon2 22W",,,
+"Kingroon KLP1",Kingroon,simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada",KLP1,,,
+"Servicio de ensamblado y calibración FDM",,simple,exclude-from-catalog|exclude-from-search,Upgrades,,,,
+"Servicio de ensamblado y calibración FDM",,simple,exclude-from-catalog|exclude-from-search,Upgrades,,,,
+"Servicio de ensamblado y calibración FDM",,simple,exclude-from-catalog|exclude-from-search,"Impresoras 3D",,,,
+"Servicio de ensamblado y calibración Resina",,simple,exclude-from-catalog|exclude-from-search,Upgrades,,,,
+"Servicio de ensamblado y calibración Resina",,simple,exclude-from-catalog|exclude-from-search,Upgrades,,,,
+"Servicio de ensamblado y calibración Resina",,simple,exclude-from-catalog|exclude-from-search,Upgrades,,,,
+"Servicio de ensamblado y calibración Prusa",,simple,exclude-from-catalog|exclude-from-search,Upgrades,,,,
+"Tanque de resina Elegoo Mars 3 Pro",Elegoo,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Tanque de resina Elegoo Jupiter",Elegoo,simple,,"Repuestos|Repuestos > Tanques",,,,
+"Pantalla LCD Elegoo Jupiter",Elegoo,simple,,"Repuestos|Repuestos > Pantallas",,,,
+"Film PFA Elegoo 247x374mm",Elegoo,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Kit de 6 Pinturas Acrílicas y Accesorios","Krear 3D",simple,,"Upgrades|Upgrades > Pinturas",,,,
+"Set 3 Pinceles de Primera Clase","Krear 3D",simple,,"Upgrades|Upgrades > Pinturas",,,,
+"Set de Pinturas Vallejo (X16)",Vallejo,simple,,"Upgrades|Upgrades > Pinturas",,,,
+"Set de Pinturas Militares Vallejo (X8)",Vallejo,simple,,"Upgrades|Upgrades > Pinturas",,,,
+"K3D PLA Blanco Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Blanco,0|1|0
+"K3D PLA Beige Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Beige,0|1|0
+"K3D PLA Rojo Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Rojo,0|1|0
+"K3D PLA Verde Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Verde,0|0|0
+"K3D PLA Gris Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Gris,0|1|0
+"K3D PLA Negro Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Negro,0|1|0
+"K3D PLA Lila Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Morado,0|1|0
+"K3D PLA Azul Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Azul,0|1|0
+"Base Magnética PEI de Doble Cara 235x235mm",Creality,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible PEI",,,
+"Funda Protectora para Cortadora Laser",Creality,simple,,"Upgrades|Upgrades > Fundas",,,,
+"Funda Protectora para Impresora 3D de Resina",Creality,simple,,"Upgrades|Upgrades > Fundas",,,,
+"Film ACF Pictor Creality 190x266mm",Creality,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Kit Hotend Universal",Creality,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Correa Universal GT2-W6 2M",Creality,simple,,"Repuestos|Repuestos > Correas",,,,
+"Termistor para Ender-3 S1 / Plus",Creality,simple,,"Repuestos|Repuestos > Termistores",,,,
+"Termistor para Ender-3 S1 Pro",Creality,simple,,"Repuestos|Repuestos > Termistores",,,,
+"Tubo Calefactor para Ender-3 S1 / Plus",Creality,simple,,"Repuestos|Repuestos > Resistencias","Tubo Calefactor",,,
+"Tubo Calefactor para Ender-3 S1 Pro",Creality,simple,,"Repuestos|Repuestos > Resistencias","Tubo Calefactor",,,
+"Placa Principal Creality Ender-3 S1",Creality,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Hotend Cerámico Spider Speedy",Creality,simple,,"Upgrades|Upgrades > Extrusores","Creality|Hotend|Hotend Spider de Alta Temperatura",,,
+"Funda Protectora para Impresora 3D FDM",Creality,simple,,"Upgrades|Upgrades > Fundas",,,,
+"Boquilla MK-HF 0.25mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK-HF 0.4mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK-HF 0.6mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla MK-HF 0.8mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla K1 0.4mm de Aleación",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla K1 0.6mm de Aleación",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla K1 0.8mm de Aleación",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla K1 0.4mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla K1 0.6mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Boquilla K1 0.8mm de Acero Endurecido",Creality,simple,,"Repuestos|Repuestos > Boquillas",,,,
+"Accesorio Giratorio Creality",Creality,simple,,"Cortadoras Láser|Cortadoras Láser > Accesorios",,,,
+"Panel Hexagonal para Cortadora Laser 200x200mm",Creality,simple,,"Upgrades|Upgrades > Accesorios",,,,
+"Bambu Lab P1S","Bambu Lab",simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Bambu Lab|Bambu Lab P1P",,,
+"Bambu Lab P1S Combo","Bambu Lab",simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Bambu Lab|Bambu Lab P1P",,,
+"Two Trees Router CNC 3018 Pro","Two Trees",simple,,"Routers CNC|Routers CNC > Escritorio",,,,
+"Two Trees Router CNC TTC 450","Two Trees",simple,,"Routers CNC|Routers CNC > Escritorio",,,,
+"Shining 3D AccuFab-L4K","Shining 3D",simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina|Impresoras 3D > Dental",,,,
+"Shining 3D Aoralscan 3","Shining 3D",simple,,"Escáneres 3D|Escáneres 3D > Dental",,,,
+"Creality Sermoon D3 Pro",Creality,simple,,"Características|Características > Core XY|Características > Cerrada|Características > Alta Velocidad|Características > Alta Temperatura|Características > Doble Extrusor|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Creality Sermoon D1",,,
+"Resina Prizma 3D Encia Rosa 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Casteable Anaranjada 500g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Casteable II Verde 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Model 2.0 Morado 500g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Model 2.0 Arena 500g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Ortho IBT 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Denture Transparente 500g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Denture A1 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Denture Rosa Medio 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Isoprizma 3D Aislante para modelos de Resina 100ml","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas|Resinas > Biocompatible",,,,
+"Resina Prizma 3D Bio Prov B1 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Prov A1 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Prov A2 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Prov A3 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Crown A1 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Resina Prizma 3D Bio Crown A2 250g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas",,,,
+"Prizma 3D Glaze de Superficies 20ml","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas|Resinas > Biocompatible",,,,
+"Resina Prizma 3D Bio Guide 500g","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas","Resina Prizma 3D Bio Guide 500g",,,
+"Resina Prizma 3D Bio Splint 1Kg","Prizma 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas|Resinas > Biocompatible",,,,
+"Phrozen Cure Mega S",Phrozen,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado",Phrozen,,,
+"Phrozen Wash Mega S",Phrozen,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado",Phrozen,,,
+"Phrozen Alimentador Automático de Resina",Phrozen,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado",Phrozen,,,
+"Revopoint POP 3 3D Scanner",Revopoint,simple,,"Escáneres 3D|Escáneres 3D > Triangulación Láser",Revopoint,,,
+"Phrozen Sonic Mega 8K S",Phrozen,simple,,"Características|Características > LCD|Impresoras 3D|Impresoras 3D > Resina","impresora 3D|Phrozen|Phrozen Sonic Mega 8K|Sonic Megan 8K",,,
+"Revopoint Range 3D Scanner",Revopoint,simple,,"Escáneres 3D|Escáneres 3D > Triangulación Láser",Revopoint,,,
+"Revopoint Mini 3D Scanner",Revopoint,simple,,"Escáneres 3D|Escáneres 3D > Triangulación Láser",Revopoint,,,
+"Film FEP Anycubic Mono 2",Anycubic,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Film nFEP Anycubic M5",Anycubic,simple,,"Repuestos|Repuestos > Film FEP","Film nFEP Anycubic M5",,,
+"Film ACF Anycubic M5s",Anycubic,simple,,"Repuestos|Repuestos > Film FEP","Film ACF Anycubic M5s",,,
+"Base Magnética PEI 300x300mm FLSUN",Flsun,simple,,"Upgrades|Upgrades > PEIs","Plataforma Magnetica Flexible PEI|Plataforma Magnética Flexible PEI 320x310mm",,,
+"Tubo Calefactor Flsun SR",Flsun,simple,,"Repuestos|Repuestos > Resistencias","Tubo Calefactor",,,
+"Termistor Flsun SR",Flsun,simple,,"Repuestos|Repuestos > Termistores",,,,
+"Hotend Flsun SR",Flsun,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Hotend Flsun V400",Flsun,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Extrusor Flsun SR",Flsun,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Placa Principal Flsun SR",Flsun,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Correa Flsun SR",Creality,simple,,"Repuestos|Repuestos > Correas",,,,
+"Correa Flsun V400",Flsun,simple,,"Repuestos|Repuestos > Correas",,,,
+"Tubo Calefactor Flsun V400",Flsun,simple,,"Repuestos|Repuestos > Resistencias","Tubo Calefactor",,,
+"Termistor Flsun V400",Flsun,simple,,"Repuestos|Repuestos > Termistores",,,,
+"Ventilador Turbo 4510 V400",Flsun,simple,,"Repuestos|Repuestos > Ventiladores",,,,
+"Cama Térmica para Flsun V400",Flsun,simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Placa de Transferencia Flsun V400",Flsun,simple,,"Repuestos|Repuestos > Placas Electrónicas",,,,
+"Motor del Extrusor Flsun V400",Flsun,simple,,"Repuestos|Repuestos > Motores",,,,
+"Boquilla V6 0.4mm de Acero Endurecido","Krear 3D",simple,,"Repuestos|Repuestos > Boquillas",Boquilla|Mellow|V6,,,
+"Gatillo Metálico de Extrusor Titan",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Rueda dentada para Extrusor Titan",Artillery,simple,,"Repuestos|Repuestos > Hotends",,,,
+"Creality Ender 3 V3 SE",Creality,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 V3 SE",,,
+"K3D PLA Rosado Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Rosado,0|1|0
+"K3D PLA Amarillo Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Amarillo,0|1|0
+"K3D PLA Anaranjado Mate 1.75mm 1Kg",K3D,simple,,"Filamentos|Filamentos > PLA K3D","K3D PLA",,Anaranjado,0|1|0
+"PolyLite PLA Starlight Mercurio 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyLite PLA Starlight Neptuno 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyLite PLA Starlight Jupiter 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyLite PLA Starlight Nebula 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyLite PLA Starlight Cometa 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyLite PLA Starlight Meteoro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyLite PLA Starlight Aurora 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyLite PLA Starlight Crepúsculo 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Iridiscente","Filamentos PLA|PolyLite PLA",,Iridiscente,0|1|0
+"PolyTerra PLA Dual Rojo/Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Negro|Rojo,0|1|0
+"PolyTerra PLA Dual Anaranjado/Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Anaranjado|Negro,0|1|0
+"PolyTerra PLA Dual Rojo/Azul 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Azul|Rojo,0|1|0
+"PolyTerra PLA Dual Gris/Morado 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Gris|Morado,0|1|0
+"PolyTerra PLA Dual Turquesa/Amarillo 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Amarillo|Turquesa,0|1|0
+"PolyTerra PLA Dual Verde/Marrón 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Dual",,,Marrón|Verde,0|1|0
+"PolySonic PLA Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Velocidad","Filamentos PLA|PolySonic",,Negro,0|1|0
+"PolySonic PLA Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Velocidad","Filamentos PLA|PolySonic",,Blanco,0|1|0
+"PolySonic PLA Pro Negro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Velocidad","Filamentos PLA|PolySonic",,Negro,0|1|0
+"PolySonic PLA Pro Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA Velocidad","Filamentos PLA|PolySonic",,Blanco,0|1|0
+"PolyLite PLA Ligero Blanco 1.75mm 800g",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Especiales",PolyLite,,Blanco,0|1|0
+"PolyLite PLA Ligero Madera 1.75mm 800g",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Especiales",PolyLite,,Beige,0|1|0
+"PolyLite CosPLA A 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Especiales",PolyLite,,Gris,0|1|0
+"PolyLite CosPLA B 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Especiales",PolyLite,,Gris,0|1|0
+"PolyLite PETG Oro 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG","PolyLite PETG Gris",,Oro,0|1|0
+"PolyLite PLA Anaranjado Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Anaranjado,0|1|0
+"PolyLite PLA Rosado Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Rosado,0|1|0
+"PolyLite PLA Turquesa Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Turquesa,0|1|0
+"PolyLite PLA Latón Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Oro,0|1|0
+"PolyLite PLA Azul Luminoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > Especiales",,,Azul|Luminoso,0|1|0
+"PolyTerra PLA Arcoíris Pastel 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA","PolyTerra PLA Gris Fosil",,Arcoiris,0|1|0
+"PolyLite PETG Plata 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Plata,0|1|0
+"PolyMax PETG-ESD Negro 1.75mm 500g",Polymaker,simple,,"Filamentos|Filamentos > PETG",,,Negro,0|1|0
+"Polymaker PC-PBT Natural 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > Policarbonato",,,Natural,0|1|0
+"Polymaker PC-ABS Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > Policarbonato",,,Blanco,0|1|0
+"PolyMax PC-FR Blanco 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > Policarbonato",,,Blanco,0|1|0
+"PolyLite PLA Arcoíris Luminoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Arcoiris,0|1|0
+"PolyLite PLA Cromo Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Plata,0|1|0
+"PolyLite PLA Verde Gema Sedoso 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA|Filamentos > PLA Sedoso",,,Verde,0|1|0
+"PolyTerra PLA Verde Lima 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Amarillo,0|1|0
+"PolyTerra PLA Blanco Frio 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Blanco,0|1|0
+"PolyTerra PLA Morado Frio 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Morado,0|1|0
+"PolyTerra PLA Verde Frio 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Verde,0|1|0
+"PolyTerra PLA Azul Frio 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Azul,0|1|0
+"Polymaker PLA Pack Halloween",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Anaranjado|Luminoso|Morado,0|1|0
+"Resina Shining 3D Dental Model DM12 1Kg","Shining 3D",simple,,"Aplicaciones|Aplicaciones > Dental|Resinas","Resina Shining 3D Dental Model DM12 1Kg",,,
+"Kit Hotend Cerámico K1 Series",Creality,simple,,"Repuestos|Repuestos > Hotends","Creality|Kit Hotend Cerámico",,,
+"Kit Extrusor K1 Series",Creality,simple,,"Repuestos|Repuestos > Hotends","Creality|Kit de Alto Flujo Creality",,,
+"Hotend y Boquilla Acero Endurecido 0.6mm","Bambu Lab",simple,,"Repuestos|Repuestos > Hotends","Bambu Lab|Hotend|Hotend y Boquilla Acero Endurecido X1 P1P",,,
+"Hotend y Boquilla Acero Endurecido 0.8mm","Bambu Lab",simple,,"Repuestos|Repuestos > Hotends","Bambu Lab|Hotend|Hotend y Boquilla Acero Endurecido X1 P1P",,,
+"Reductores de vibración Bambu Lab","Bambu Lab",simple,,"Repuestos|Repuestos > Plataformas",,,,
+"Ventilador Auxiliar Bambu Lab","Bambu Lab",simple,,"Repuestos|Repuestos > Ventiladores",,,,
+"Termistor y Resistencia P1 Series","Bambu Lab",simple,,"Repuestos|Repuestos > Resistencias|Repuestos > Termistores",,,,
+"Protector de Silicona Bambu Lab","Bambu Lab",simple,,"Repuestos|Repuestos > Hotends",,,,
+"Calefactor Cerámico X1 Series","Bambu Lab",simple,,"Repuestos|Repuestos > Resistencias","Tubo Calefactor",,,
+"Bambu Lab PAHT-CF Negro 1.75mm 0.5Kg","Bambu Lab",simple,,"Filamentos|Filamentos > Reforzado",,,Azul,0|1|0
+"Bambu Lab PET-CF Negro 1.75mm 0.5Kg","Bambu Lab",simple,,"Filamentos|Filamentos > Reforzado",,,Azul,0|1|0
+"Panel Hexagonal para Cortadora Laser 500x500mm",Creality,simple,,"Upgrades|Upgrades > Accesorios",,,,
+"Film PFA Elegoo 146x195mm",Elegoo,simple,,"Repuestos|Repuestos > Film FEP",,,,
+"Elegoo PHECDA 10W",Elegoo,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo","Creality Falcon2 22W",,,
+"Elegoo PHECDA 20W",Elegoo,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo",,,,
+"PolyMide PA6-GF Gris 1.75mm 500g",Polymaker,simple,,"Filamentos|Filamentos > Reforzado",,,Negro,0|1|0
+"Spray para escaneo 3D",AESUB,simple,,"Escáneres 3D|Escáneres 3D > Accesorios","Bambu Lab|Goma Liquida",,,
+"Creality Falcon2 12W",Creality,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo","Creality Falcon2 22W",,,
+"Creality Falcon2 40W",Creality,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo",,,,
+"Revopoint Base Giratoria de Doble Eje",Revopoint,simple,,"Escáneres 3D|Escáneres 3D > Accesorios",,,,
+"Revopoint Base Giratoria para Personas",Revopoint,simple,,"Escáneres 3D|Escáneres 3D > Accesorios",,,,
+"Revopoint Base Giratoria Portable",Revopoint,simple,,"Escáneres 3D|Escáneres 3D > Accesorios",,,,
+"Creality CR-10 SE",Creality,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality CR-10 Smart Pro",,,
+"Anycubic Kobra 2 Max",Anycubic,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Gran Formato|Impresoras 3D|Impresoras 3D > Filamento","Anycubic Kobra Max",,,
+"Anycubic Kobra 2 Pro",Anycubic,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Impresoras 3D|Impresoras 3D > Filamento","Anycubic Kobra 2 Pro",,,
+"Anycubic Kobra 2 Neo",Anycubic,simple,,"Características|Características > Cartesiana|Impresoras 3D|Impresoras 3D > Filamento","Anycubic Kobra 2 Neo",,,
+"Anycubic Kobra 2 Plus",Anycubic,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Impresoras 3D|Impresoras 3D > Filamento","Anycubic Kobra 2 Plus",,,
+"Anycubic Wash and Cure Max",Anycubic,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado",,,,
+"Kit de Pinturas Acrílicas Anycubic",Anycubic,simple,,"Upgrades|Upgrades > Pinturas","Kit de Pinturas Acrílicas Anycubic",,,
+"Bambu Lab A1 Mini","Bambu Lab",simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Bambu Lab|Bambu Lab P1P",,,
+"Bambu Lab A1 Mini Combo","Bambu Lab",simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento|Impresoras 3D > Ensamblada","Bambu Lab|Bambu Lab P1P",,,
+"Set de Pinturas Militares Vallejo (X16)",Vallejo,simple,,"Upgrades|Upgrades > Pinturas",,,,
+"Artillery Sidewinder X3 Pro",Artillery,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Artillery|impresora 3D",,,
+"Artillery Sidewinder X3 Plus",Artillery,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Artillery|impresora 3D",,,
+"Artillery Sidewinder X4",Artillery,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Artillery|impresora 3D",,,
+"Artillery Sidewinder X4 Plus",Artillery,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Artillery|impresora 3D",,,
+"PolyLite PLA Marrón 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Azul,0|1|0
+"PolyLite PLA Beige 1.75mm 1Kg",Polymaker,simple,,"Filamentos|Filamentos > PLA",,,Azul,0|1|0
+"Anycubic Wash and Cure 3",Anycubic,simple,,"Impresoras 3D|Impresoras 3D > Postprocesado",,,,
+"Elegoo Neptune 4 Plus",Elegoo,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3",,,
+"Elegoo Neptune 4 Max",Elegoo,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Elegoo Neptune 3",,,
+"Kit Hotend Cerámico Bimetálico K1 Series",Creality,simple,,"Repuestos|Repuestos > Hotends","Creality|Kit Hotend Cerámico",,,
+"Creality Ender 3 V3 KE",Creality,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 V3 SE",,,
+"Creality Falcon Pro 10W",Creality,simple,,"Cortadoras Láser|Cortadoras Láser > Diodo","Creality Falcon2 22W",,,
+"Creality CR-Scan Ferret Pro",Creality,simple,,"Escáneres 3D|Escáneres 3D > Luz Estructurada","Creality CR-Scan Ferret",,,
+"Sovol SV07 Plus",Sovol,simple,,"Características|Características > Cartesiana|Características > Alta Velocidad|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 V3 SE",,,
+"Sovol SV07",Sovol,simple,,"Características|Características > Cartesiana|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 V3 SE",,,
+"Sovol SV04",Sovol,simple,,"Características|Características > Cartesiana|Características > Alta Temperatura|Impresoras 3D|Impresoras 3D > Filamento","Creality Ender 3 V3 SE",,,
