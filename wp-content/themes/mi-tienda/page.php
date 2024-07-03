@@ -1,0 +1,18 @@
+<?php
+get_header('other');?>
+<?php defined('ABSPATH') || exit;?>
+
+<?php include get_theme_file_path('/includes/slidershow.php'); ?>
+<?php include get_theme_file_path('includes/bloques.php');?>
+
+
+    	<?php
+
+			while (have_posts()): the_post();
+			    the_content();
+			endwhile;
+
+		?>
+
+
+<?php get_footer();?>
