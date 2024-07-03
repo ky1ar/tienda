@@ -1,0 +1,37 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+
+# WordPress Content
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/uploads/
+/wp-content/backup-db/
+/wp-content/advanced-cache.php
+/wp-content/wp-cache-config.php
+/wp-content/cache-config.php
+/wp-content/backups/
+
+# Logs and debug files
+*.log
+debug.log
+error_log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Sensitive files
+wp-config.php
+
+# Node modules
+node_modules/
+
+# Composer
+vendor/
+composer.lock
