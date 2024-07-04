@@ -28,10 +28,3 @@ Thumbs.db
 
 # Sensitive files
 wp-config.php
-
-# Node modules
-node_modules/
-
-# Composer
-vendor/
-composer.lock
