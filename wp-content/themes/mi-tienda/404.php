@@ -4,7 +4,6 @@ global $post;
 $post_slug=$post->post_name;
 ?>
 
-
 <div class="k11-emp-crt <?php echo $post_slug; ?>">
 	 <div class="kyr-o11-wrp kyr-o11-flx">
 		 <img src="/wp-content/uploads/kyro11/svg/404.svg">	
